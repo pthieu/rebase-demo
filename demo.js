@@ -3,5 +3,5 @@
 main();
 
 function main() {
-  console.log('initial commit')
+  console.log('this is the master branch');
 }
